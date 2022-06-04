@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi, a'm wallskiller a web dev & agrucultural mecanic engineer.<br />
+        <p>Hi, I'm wallskiller a web dev & agrucultural mecanic engineer.<br />
           contact me!{'   '}
           <a href="https://www.linkedin.com/in/ismael-gallegos-ruiz-245b38191/">in</a>
           </p>
